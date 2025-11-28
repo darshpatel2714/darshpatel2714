@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darsh Patel</h1>
-<h3 align="center">Full Stack Web & Python Developer passionate about creating modern, responsive web applications and AI-driven solutions.</h3>
+<h3 align="center">Frontend Web & Python Developer passionate about creating modern, responsive web applications and AI-driven solutions.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
